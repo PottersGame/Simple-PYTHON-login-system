@@ -1,2 +1,2 @@
 # Simple PYTHON login system
- Simple PYTHON login system whit encryption by JakubGi
+ Simple PYTHON login system with encryption by JakubGi
